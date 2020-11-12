@@ -1,5 +1,5 @@
 # LilyGo TTGO T-Watch projects list
-* [Create first ESP32 project with the LilyGoWatch library (Arduino IDE or PlatformIO)](https://diyprojects.io/lilygowatch-esp32-ttgo-t-watch-get-started-ide-arduino-platformio)
+* T-Watch Hello World, [create first ESP32 project with the LilyGoWatch library (Arduino IDE or PlatformIO)](https://diyprojects.io/lilygowatch-esp32-ttgo-t-watch-get-started-ide-arduino-platformio)
 
 ## Tutorials to get started
 * [Which T-Watch to choose?](https://diyprojects.io/ttgo-t-watch-esp32-which-model-choose-available-expansion-boards/)
@@ -13,8 +13,8 @@
 * [Buy T-Watch expansion board](https://diyprojects.io/esp32-lilygo-ttgo-t-watch-connected-watches-to-program-yourself/#carteextensiontwatch) for T-Watch Touch, T-Watch-N or T-Block
 
 ## Usefull links
-* [LilyGo official website]()
-* [Official LiLyGoWatch library]()
+* [LilyGo official website](http://www.lilygo.cn/)
+* [Official LiLyGoWatch library](https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library)
 * [AXP202, power controller datasheet](http://dl.linux-sunxi.org/AXP/AXP202%20Datasheet_v1.0_en.pdf)
 * [NXP PCF8563 RTC clock](https://www.nxp.com/docs/en/data-sheet/PCF8563.pdf)
 * [Bosch Sensortec BMA423, 3-axis accelerometer](https://www.bosch-sensortec.com/products/motion-sensors/accelerometers/bma423.html)
