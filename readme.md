@@ -18,6 +18,8 @@ The T-Watch 2020 is a real connected watch with a design reminiscent of the Appl
 ## Usefull links
 * [LilyGo official website](http://www.lilygo.cn/)
 * [Official LiLyGoWatch library](https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library)
+* [LVGL](https://github.com/lvgl)
+* [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI)
 * [AXP202, power controller datasheet](http://dl.linux-sunxi.org/AXP/AXP202%20Datasheet_v1.0_en.pdf)
 * [NXP PCF8563 RTC clock](https://www.nxp.com/docs/en/data-sheet/PCF8563.pdf)
 * [Bosch Sensortec BMA423, 3-axis accelerometer](https://www.bosch-sensortec.com/products/motion-sensors/accelerometers/bma423.html)
@@ -55,6 +57,8 @@ La T-Watch 2020 est une véritable montre connectée au design rappelant l'Apple
 ## Liens utiles
 * [Site officiel de LilyGo](http://www.lilygo.cn/)
 * [Dépot officiel de la librairie LiLyGoWatch](https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library)
+* [LVGL](https://github.com/lvgl)
+* [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI)
 * [Documentation technique de l'AXP202, contrôleur d'alimentation](http://dl.linux-sunxi.org/AXP/AXP202%20Datasheet_v1.0_en.pdf)
 * [Documentation technique du NXP PCF8563, horloge RTC](https://www.nxp.com/docs/en/data-sheet/PCF8563.pdf)
 * [Bosch Sensortec BMA423, accélèromètre 3 axes](https://www.bosch-sensortec.com/products/motion-sensors/accelerometers/bma423.html)
