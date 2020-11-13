@@ -1,3 +1,17 @@
+/* Get Started with the LilyGoWatch library
+ * Arduino IDE or PlatformIO
+ * Tutorials
+ * https://diyprojects.io/lilygowatch-esp32-ttgo-t-watch-get-started-ide-arduino-platformio
+ * https://projetsdiy.fr/lilygowatch-ttgo-t-watch-projet-esp32-ide-arduino-platformio/
+ * /
+ 
+/* Arduino IDE - uncomment your watch */
+//#define LILYGO_WATCH_2019_WITH_TOUCH
+//#define  LILYGO_WATCH_2019_NO_TOUCH
+//#define LILYGO_WATCH_BLOCK=1
+//#define LILYGO_WATCH_2020_V1
+
+/* PlatformIO -> Select your watch in platformio file */
 #include <Arduino.h>
 #include <LilyGoWatch.h>
 
