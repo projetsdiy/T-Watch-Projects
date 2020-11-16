@@ -2,7 +2,7 @@
  * Arduino IDE or PlatformIO
  * Step by step tutorials
  *
- * https://projetsdiy.fr/ttgo-t-watch-debuter-librairie-esp32-tft_espi/
+ * https://projetsdiy.fr/ttgo-t-watch-debuter-librairie-esp32-tft_espi/#changeorientation
  * Licence : see licence file
  * /
  
