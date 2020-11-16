@@ -3,6 +3,8 @@ The T-Watch series concentrates in a mini 20mm thick case an ESP32 development b
 The T-Watch 2020 is a real connected watch with a design reminiscent of the Apple Watch. As this is primarily an ESP32 development board, it can be fully programmed with Arduino code!
 
 * T-Watch Hello World, [create first ESP32 project with the LilyGoWatch library (Arduino IDE or PlatformIO)](https://diyprojects.io/lilygowatch-esp32-ttgo-t-watch-get-started-ide-arduino-platformio)
+* T-Watch Get Started TFT display [Getting started with the ESP32 TFT_eSPI library for TTGO T-Watch units](https://projetsdiy.fr/ttgo-t-watch-debuter-librairie-esp32-tft_espi)
+* T-Watch screen orientation reference [Change screen orientation with reference](https://projetsdiy.fr/ttgo-t-watch-debuter-librairie-esp32-tft_espi/#changeorientation)
 
 ## Tutorials to get started
 * [Which T-Watch to choose?](https://diyprojects.io/ttgo-t-watch-esp32-which-model-choose-available-expansion-boards/)
@@ -42,6 +44,8 @@ La série T-Watch concentre dans un mini boîtier de 20 mm d'épaisseur une cart
 La T-Watch 2020 est une véritable montre connectée au design rappelant l'Apple Watch. Comme il s'agit avant tout d'une carte de développement ESP32, elle peut être entièrement programmée avec du code Arduino!
 
 * T-Watch Hello World, [créer votre 1er projet ESP32 avec la librairie LilyGoWatch sur l'IDE Arduino ou PlatformIO](https://projetsdiy.fr/lilygowatch-ttgo-t-watch-projet-esp32-ide-arduino-platformio/)
+* T-Watch Get Started TFT display [Débuter avec la librairie ESP32 TFT_eSPI pour les boitier TTGO T-Watch](https://projetsdiy.fr/ttgo-t-watch-debuter-librairie-esp32-tft_espi)
+* T-Watch screen orientation reference [Orientation de l'écran](https://projetsdiy.fr/ttgo-t-watch-debuter-librairie-esp32-tft_espi/#changeorientation)
 
 ## Tutoriels 
 * [Quelle T-Watch choisir ?](https://projetsdiy.fr/ttgo-t-watch-esp32-quel-modele-choisir-cartes-dextension-disponibles/)

@@ -3,6 +3,8 @@
  * Tutorials
  * https://diyprojects.io/lilygowatch-esp32-ttgo-t-watch-get-started-ide-arduino-platformio
  * https://projetsdiy.fr/lilygowatch-ttgo-t-watch-projet-esp32-ide-arduino-platformio/
+ * 
+ * Licence : see licence file
  * /
  
 /* Arduino IDE - uncomment your watch */
@@ -11,7 +13,7 @@
 //#define LILYGO_WATCH_BLOCK=1
 //#define LILYGO_WATCH_2020_V1
 
-/* PlatformIO -> Select your watch in platformio file */
+/* PlatformIO -> Select your watch in platformio.ini file */
 #include <Arduino.h>
 #include <LilyGoWatch.h>
 
@@ -26,9 +28,9 @@ void setup() {
     
     // Use eTFT library to display text on screen | On utilise la librairie eTFT pour afficher du texte à l'écran
     watch->tft->fillScreen(TFT_BLACK);
-    watch->tft->setTextFont(2);
+    watch->tft->setTextFont(1);
     watch->tft->setTextSize(2);
-    watch->tft->setTextColor(TFT_WHITE);
+    watch->tft->setTextColor(TFT_WHITE, TFT_BLACK);
     watch->tft->setCursor(0, 0);
     watch->tft->println(F("Hello T-Watch"));
 }
