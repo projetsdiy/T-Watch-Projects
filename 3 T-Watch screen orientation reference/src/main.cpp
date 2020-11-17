@@ -1,7 +1,7 @@
 /* Get Started with the TFT_eSPI library for TTGO T-Watch
  * Arduino IDE or PlatformIO
  * Step by step tutorials
- *
+ * https://diyprojects.io/ttgo-t-watch-get-started-esp32-tft_espi-library/#changeorientation
  * https://projetsdiy.fr/ttgo-t-watch-debuter-librairie-esp32-tft_espi/#changeorientation
  * Licence : see licence file
  * /
