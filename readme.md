@@ -77,3 +77,10 @@ Il est plus facile et rapide de développer le code Arduinoà l'aide de Platform
 * [Platformio.ini, astuces et paramètres utiles. data_dir, monitor_speed, upload_port...](https://projetsdiy.fr/platformio-ini-astuces-parametres-connaitre/)
 * [Problèmes et solutions courants](https://projetsdiy.fr/developper-platformio-problemes-solutions/)
 * [Migrer du code Arduino vers un projet PlatformIO](https://projetsdiy.fr/comment-migrer-projet-esp8266-ide-arduino-platformio/)
+
+_____
+
+# Firmwares
+A list of ready to use firmware you can install on your T-Watch
+* [T-Watch 2020 firmaware from Dirk Broßwick aka sharandac](https://github.com/sharandac/My-TTGO-Watch). WiFi, Bluetooth, IR Remote, OsmAnd, Clock, Stop Watch, LVGL, Accelerometer wakeup, scroll, BMA 423 step counter...
+* [](https://github.com/wfdudley/T-watch-2020)

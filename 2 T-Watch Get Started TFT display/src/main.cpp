@@ -9,7 +9,7 @@
 /* Arduino IDE - uncomment your watch */
 //#define LILYGO_WATCH_2019_WITH_TOUCH
 //#define  LILYGO_WATCH_2019_NO_TOUCH
-//#define LILYGO_WATCH_BLOCK=1
+//#define LILYGO_WATCH_BLOCK
 //#define LILYGO_WATCH_2020_V1
 
 /* PlatformIO -> Select your watch in platformio.ini file */
