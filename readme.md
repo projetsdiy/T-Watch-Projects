@@ -5,6 +5,10 @@ The T-Watch 2020 is a real connected watch with a design reminiscent of the Appl
 1. T-Watch Hello World, [create first ESP32 project with the LilyGoWatch library (Arduino IDE or PlatformIO)](https://diyprojects.io/lilygowatch-esp32-ttgo-t-watch-get-started-ide-arduino-platformio)
 2. T-Watch Get Started TFT display [Getting started with the ESP32 TFT_eSPI library for TTGO T-Watch units](https://projetsdiy.fr/ttgo-t-watch-debuter-librairie-esp32-tft_espi)
 3. T-Watch screen orientation reference [Change screen orientation with reference](https://projetsdiy.fr/ttgo-t-watch-debuter-librairie-esp32-tft_espi/#changeorientation)
+4. 
+5. 
+6. Switch between LVGL and TFT_eSPI screen on a TTGO T-Watch [Landing page is created with LVGL library](https://diyprojects.io/ttgo-t-watch-mix-lvgl-tft_espi-libraries-same-esp32-project/)
+7. Switch between LVGL and TFT_eSPI screen on a TTGO T-Watch [Landing page is created with TFT_eSPI library](https://diyprojects.io/ttgo-t-watch-mix-lvgl-tft_espi-libraries-same-esp32-project/)
 
 ## Tutorials to get started
 * [Which T-Watch to choose?](https://diyprojects.io/ttgo-t-watch-esp32-which-model-choose-available-expansion-boards/)
@@ -46,6 +50,10 @@ La T-Watch 2020 est une véritable montre connectée au design rappelant l'Apple
 1. T-Watch Hello World, [créer votre 1er projet ESP32 avec la librairie LilyGoWatch sur l'IDE Arduino ou PlatformIO](https://projetsdiy.fr/lilygowatch-ttgo-t-watch-projet-esp32-ide-arduino-platformio/)
 2. T-Watch Get Started TFT display [Débuter avec la librairie ESP32 TFT_eSPI pour les boitier TTGO T-Watch](https://projetsdiy.fr/ttgo-t-watch-debuter-librairie-esp32-tft_espi)
 3. T-Watch screen orientation reference [Orientation de l'écran](https://projetsdiy.fr/ttgo-t-watch-debuter-librairie-esp32-tft_espi/#changeorientation)
+4. en cours d'écriture
+5. en cours d'criture
+6. Naviguer entre un écran LVGL et TFT_eSPI sur un TTGO T-Watch [La page principale est créée avec la bibliothèque LVGL](https://projetsdiy.fr/ttgo-t-watch-mixer-librairies-lvgl-tft_espi-projet-esp32/)
+7. Naviguer entre l'écran LVGL et TFT_eSPI sur un TTGO T-Watch [La page principale est créée avec la bibliothèque TFT_eSPI](https://projetsdiy.fr/ttgo-t-watch-mixer-librairies-lvgl-tft_espi-projet-esp32/)
 
 ## Tutoriels 
 * [Quelle T-Watch choisir ?](https://projetsdiy.fr/ttgo-t-watch-esp32-quel-modele-choisir-cartes-dextension-disponibles/)
@@ -53,7 +61,7 @@ La T-Watch 2020 est une véritable montre connectée au design rappelant l'Apple
 * [Repérage des broches de la T-Watch 2020](https://projetsdiy.fr/t-watch-2020-reperage-des-broches-et-specifications-de-la-montre-connectee-esp32-ttgo/)
 * [Débuter avec la librairie LiLyGoWatch (IDE Arduino et PlatformIO)](https://projetsdiy.fr/lilygowatch-ttgo-t-watch-projet-esp32-ide-arduino-platformio/)
 * [Constantes pour déclarer le modèle dans le code Arduino](https://projetsdiy.fr/lilygowatch-ttgo-t-watch-projet-esp32-ide-arduino-platformio/#constantestwatch)
-* [Constantes cpour les périphériques et cartes d'extension](https://projetsdiy.fr/lilygowatch-ttgo-t-watch-projet-esp32-ide-arduino-platformio/#constantesaccessoirescartesextension)
+* [Constantes pour les périphériques et cartes d'extension](https://projetsdiy.fr/lilygowatch-ttgo-t-watch-projet-esp32-ide-arduino-platformio/#constantesaccessoirescartesextension)
 * [Exemple de fichier platformio.ini](https://projetsdiy.fr/lilygowatch-ttgo-t-watch-projet-esp32-ide-arduino-platformio/#platformioinitwatch)
 * [Acheter une T-Watch](https://projetsdiy.fr/boitier-montre-connectee-esp32-lilygo-ttgo-t-watch/)
 * [Acheter une carte d'extension](https://projetsdiy.fr/boitier-montre-connectee-esp32-lilygo-ttgo-t-watch/#carteextensiontwatch) pour T-Watch, T-Watch-N, T-Block

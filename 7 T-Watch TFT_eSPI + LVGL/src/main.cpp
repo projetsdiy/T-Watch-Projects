@@ -1,8 +1,10 @@
 /* Switch between TFT_eSPI and LVGL screen on a TTGO T-Watch
  * Landing page is created with TFT_eSPI library
  * Arduino IDE or PlatformIO
- * Step by step tutorials
  * 
+ * Step by step tutorials
+ * https://diyprojects.io/ttgo-t-watch-mix-lvgl-tft_espi-libraries-same-esp32-project/
+ * https://projetsdiy.fr/ttgo-t-watch-mixer-librairies-lvgl-tft_espi-projet-esp32/
  * Licence : see licence file
  * /
  
@@ -12,7 +14,7 @@
 //#define LILYGO_WATCH_BLOCK
 //#define LILYGO_WATCH_2020_V1
 
-// Arduino IDE - uncomment to activate LVGL librarie
+// Arduino IDE - uncomment to activate LVGL library
 //#define LILYGO_WATCH_LVGL
 
 /* PlatformIO -> Select your watch in platformio.ini file */
