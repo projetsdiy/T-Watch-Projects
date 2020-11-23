@@ -1,6 +1,7 @@
 # Draw Mandelbrot or Julia fractals on your T-Watch demo (ESP32)
 Original source code from [FabriceA6 on instructables](https://www.instructables.com/Mandelbrot-and-Julia-Sets-on-ESP32/)
- 
+
+![esp32demo]](esp32%20fractal%20demo%20t-watch.mp4) 
 
 ## More to read
 You can find more information about this project on the blog
