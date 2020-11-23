@@ -14,6 +14,7 @@ _______
 # Dessiner des fractales Mandelbrot ou Julia sur une T-Watch (ESP32)
 Code source original de[FabriceA6 sur instructables](https://www.instructables.com/Mandelbrot-and-Julia-Sets-on-ESP32/)
 
-# Plus de lecture
+## Plus de lecture
 * [Tutoriel étape par étape. Comment adapter un projet TFT_eSPI sur une T-Watch](https://projetsdiy.fr/ttgo-t-watch-projet-fractales-mandelbrot-julia-esp32/)
 * [Quelle T-Watch choisir ?](https://projetsdiy.fr/ttgo-t-watch-esp32-quel-modele-choisir-cartes-dextension-disponibles/)
+* [Mixer les librairies LVGL et TFT_eSPI dans un même projet ESP32](https://projetsdiy.fr/ttgo-t-watch-mixer-librairies-lvgl-tft_espi-projet-esp32/)
