@@ -1,7 +1,9 @@
-/* Get Started with the TFT_eSPI library for TTGO T-Watch
+/* How to convert in C++ color image with LVGL
  * Arduino IDE or PlatformIO
- * Step by step tutorials
  * 
+ * Step by step tutorials
+ * https://diyprojects.io/ttgo-t-watch-display-xbm-tft_espi-lvgl-images-esp32-arduino/
+ * https://projetsdiy.fr/ttgo-t-watch-afficher-images-xbm-tft_espi-lvgl-esp32-arduino/
  * Licence : see licence file
  * /
  

@@ -1,7 +1,9 @@
-/* Get Started with the TFT_eSPI library for TTGO T-Watch
+/* How to convert bitmap to XBM format and display image on TTGO T-Watch ith TFT_eSPI library
  * Arduino IDE or PlatformIO
- * Step by step tutorials
  * 
+ * Step by step tutorials
+ * https://diyprojects.io/ttgo-t-watch-display-xbm-tft_espi-lvgl-images-esp32-arduino/
+ * https://projetsdiy.fr/ttgo-t-watch-afficher-images-xbm-tft_espi-lvgl-esp32-arduino/
  * Licence : see licence file
  * /
  
@@ -32,7 +34,7 @@ void setup() {
   ttgo->tft->fillScreen(TFT_BLACK);
   ttgo->tft->drawString("XBM image", 0,0);
   //drawXBitmap(int16_t x, int16_t y, const uint8_t *bitmap, int16_t w, int16_t h, uint16_t color, uint16_t bgcolor)
-  //ttgo->tft->drawXBitmap(20,20, clockxbm, clock_width, clock_height, TFT_WHITE, TFT_BLACK);
+  ttgo->tft->drawXBitmap(20,20, clockxbm, clock_width, clock_height, TFT_WHITE, TFT_BLACK);
 
   ttgo->tft->pushImage(20,20, clockwidth, clockheight, clockico);
 }

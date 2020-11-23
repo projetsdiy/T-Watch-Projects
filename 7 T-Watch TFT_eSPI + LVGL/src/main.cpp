@@ -119,6 +119,3 @@ static void event_handler(lv_obj_t * obj, lv_event_t event){
     KeyPressed = true;
   }  
 }
-
-
-
