@@ -1,4 +1,4 @@
-/* How to convert in C++ color image with LVGL
+/* How to convert in C++ color image with LVGL and display on TTGO T-Watch
  * Arduino IDE or PlatformIO
  * 
  * Step by step tutorials

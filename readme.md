@@ -9,8 +9,10 @@ The T-Watch 2020 is a real connected watch with a design reminiscent of the Appl
 5. [ How to convert in C++ color image with LVGL and display on TTGO T-Watch](https://diyprojects.io/ttgo-t-watch-display-xbm-tft_espi-lvgl-images-esp32-arduino/)
 6. Switch between LVGL and TFT_eSPI screen on a TTGO T-Watch [Landing page is created with LVGL library](https://diyprojects.io/ttgo-t-watch-mix-lvgl-tft_espi-libraries-same-esp32-project/)
 7. Switch between LVGL and TFT_eSPI screen on a TTGO T-Watch [Landing page is created with TFT_eSPI library](https://diyprojects.io/ttgo-t-watch-mix-lvgl-tft_espi-libraries-same-esp32-project/)
+8. writting...
+9. [Draw Mandelbrot or Julia fractals (LVGL + TFT_eSPI)](https://diyprojects.io/ttgo-t-watch-draw-mandelbrot-julia-fractals-esp32-lvgl-tft_espi/)
 
-## Tutorials to get started
+## Get started with T-Watch
 * [Which T-Watch to choose?](https://diyprojects.io/ttgo-t-watch-esp32-which-model-choose-available-expansion-boards/)
 * [T-Watch and T-Block pinout](https://diyprojects.io/t-watch-t-block-esp32-core-pcb-expansion-boards-pinout/)
 * [T-Watch 2020 pinout](https://diyprojects.io/t-watch-2020-esp32-ttgo-smart-watch-pinout-specifications/)
@@ -20,6 +22,14 @@ The T-Watch 2020 is a real connected watch with a design reminiscent of the Appl
 * [Platformio.ini example](https://diyprojects.io/lilygowatch-esp32-ttgo-t-watch-get-started-ide-arduino-platformio/#platformioinitwach)
 * [Buy a T-Watch](https://diyprojects.io/esp32-lilygo-ttgo-t-watch-connected-watches-to-program-yourself/)
 * [Buy T-Watch expansion board](https://diyprojects.io/esp32-lilygo-ttgo-t-watch-connected-watches-to-program-yourself/#carteextensiontwatch) for T-Watch Touch, T-Watch-N or T-Block
+
+## Develop a graphical interface with TFT_eSPI or LVGL
+* [TFT_eSPI. Getting started with the library. Display text, shapes, touch detection](https://diyprojects.io/ttgo-t-watch-get-started-esp32-tft_espi-library/)
+* [How to display XBM (TFT_eSPI) and C ++ (LVGL) images](https://diyprojects.io/ttgo-t-watch-display-xbm-tft_espi-lvgl-images-esp32-arduino/)
+* [Mix the LVGL and TFT_eSPI libraries in the same ESP32 project](https://diyprojects.io/ttgo-t-watch-mix-lvgl-tft_espi-libraries-same-esp32-project/)
+
+## T-Watch projets and games
+* [Draw Mandelbrot or Julia fractals (LVGL + TFT_eSPI)](https://diyprojects.io/ttgo-t-watch-draw-mandelbrot-julia-fractals-esp32-lvgl-tft_espi/)
 
 ## Usefull links
 * [LilyGo official website](http://www.lilygo.cn/)
@@ -54,8 +64,10 @@ La T-Watch 2020 est une véritable montre connectée au design rappelant l'Apple
 5. [Comment convertir une image couleur C ++ avec LVGL et afficher sur TTGO T-Watch](https://projetsdiy.fr/ttgo-t-watch-afficher-images-xbm-tft_espi-lvgl-esp32-arduino/)
 6. Naviguer entre un écran LVGL et TFT_eSPI sur un TTGO T-Watch [La page principale est créée avec la bibliothèque LVGL](https://projetsdiy.fr/ttgo-t-watch-mixer-librairies-lvgl-tft_espi-projet-esp32/)
 7. Naviguer entre l'écran LVGL et TFT_eSPI sur un TTGO T-Watch [La page principale est créée avec la bibliothèque TFT_eSPI](https://projetsdiy.fr/ttgo-t-watch-mixer-librairies-lvgl-tft_espi-projet-esp32/)
+8. En cours de rédaction
+9. [Dessiner des fractales de Mandelbrot ou Julia](https://projetsdiy.fr/ttgo-t-watch-projet-fractales-mandelbrot-julia-esp32/)
 
-## Tutoriels 
+## Débuter avec la T-Watch 
 * [Quelle T-Watch choisir ?](https://projetsdiy.fr/ttgo-t-watch-esp32-quel-modele-choisir-cartes-dextension-disponibles/)
 * [Repérage des broches de la T-Watch et T-Block](https://projetsdiy.fr/t-watch-tblock-reperage-broches-core-pcb-cartes-extension/)
 * [Repérage des broches de la T-Watch 2020](https://projetsdiy.fr/t-watch-2020-reperage-des-broches-et-specifications-de-la-montre-connectee-esp32-ttgo/)
@@ -65,6 +77,14 @@ La T-Watch 2020 est une véritable montre connectée au design rappelant l'Apple
 * [Exemple de fichier platformio.ini](https://projetsdiy.fr/lilygowatch-ttgo-t-watch-projet-esp32-ide-arduino-platformio/#platformioinitwatch)
 * [Acheter une T-Watch](https://projetsdiy.fr/boitier-montre-connectee-esp32-lilygo-ttgo-t-watch/)
 * [Acheter une carte d'extension](https://projetsdiy.fr/boitier-montre-connectee-esp32-lilygo-ttgo-t-watch/#carteextensiontwatch) pour T-Watch, T-Watch-N, T-Block
+
+## Développer une interface graphique avec TFT_eSPI ou LVGL
+* [TFT_eSPI. Débuter avec la librairie. Afficher texte, formes, détection tactile](https://projetsdiy.fr/ttgo-t-watch-debuter-librairie-esp32-tft_espi/)
+* [Comment afficher des images XBM (TFT_eSPI) et C++ (LVGL)](https://projetsdiy.fr/ttgo-t-watch-afficher-images-xbm-tft_espi-lvgl-esp32-arduino/)
+* [Mixer les librairies LVGL et TFT_eSPI dans un même projet ESP32](https://projetsdiy.fr/ttgo-t-watch-mixer-librairies-lvgl-tft_espi-projet-esp32/)
+
+## Projets et jeux pour T-Watch
+* [Dessiner des fractales de Mandelbrot ou Julia](https://projetsdiy.fr/ttgo-t-watch-projet-fractales-mandelbrot-julia-esp32/)
 
 ## Liens utiles
 * [Site officiel de LilyGo](http://www.lilygo.cn/)
@@ -89,8 +109,8 @@ Il est plus facile et rapide de développer le code Arduinoà l'aide de Platform
 _____
 
 # Firmwares
-A list of ready to use firmware you can install on your T-Watch
+A list of ready to use firmware you can install on your T-Watch 2020 or T-Watch Touch
 * [T-Watch 2020 firmaware from Dirk Broßwick aka sharandac](https://github.com/sharandac/My-TTGO-Watch). WiFi, Bluetooth, IR Remote, OsmAnd, Clock, Stop Watch, LVGL, Accelerometer wakeup, scroll, BMA 423 step counter...
 * [agoodWatch](https://github.com/AlexGoodyear/agoodWatch)
-* [](https://github.com/wfdudley/T-watch-2020)
+* [William F. Dudley aka wfdudley project](https://github.com/wfdudley/T-watch-2020) 
 

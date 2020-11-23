@@ -1,8 +1,9 @@
-/* How to draw Mandelbrot or Julia fractals on your T-Watch. 
+/* Draw Mandelbrot or Julia fractals on your T-Watch demo. 
  * Original source code from FabriceA6 https://www.instructables.com/Mandelbrot-and-Julia-Sets-on-ESP32/
  * 
  * Step by step tutorials
- * 
+ * https://diyprojects.io/ttgo-t-watch-display-xbm-tft_espi-lvgl-images-esp32-arduino/
+ * https://projetsdiy.fr/ttgo-t-watch-projet-fractales-mandelbrot-julia-esp32/
  *
  * Licence : see licence file
  * /
