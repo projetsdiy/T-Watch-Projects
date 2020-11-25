@@ -6,6 +6,10 @@
 		{
 			"name": "T-Watch cursor position and screen orientation",
 			"path": "T-Watch cursor position and screen orientation"
+		},
+		{
+			"name": "T-Watch Games",
+			"path": "../Local/T-Watch Games"
 		}
 	],
 	"settings": {}
