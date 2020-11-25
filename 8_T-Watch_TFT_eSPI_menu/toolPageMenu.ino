@@ -9,7 +9,7 @@ int toolPageMenu(){
 
   int16_t x, y, tx, ty;
 
-  int mSelect; 
+  int mSelect = 0; 
   // Keep the TFT_eSPI page open until the user touches an option
   // Permet de maintenir la page TFT_eSPI ouverte jusqu'à ce que l'utilisateur touche une option
   boolean exitMenu = false;   
@@ -31,6 +31,7 @@ int toolPageMenu(){
         mSelect = 6;
         exitMenu = true;
       } else {
+        mSelect = 0;
         exitMenu = true;
       } 
     }

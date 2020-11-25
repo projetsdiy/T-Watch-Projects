@@ -1,7 +1,8 @@
-/* Get Started with the TFT_eSPI library for TTGO T-Watch
- * Arduino IDE or PlatformIO
+/* T-Watch. Menu, pages, navigation between screens with TFT_eSPI
+ * 
  * Step by step tutorials
- *
+ * https://diyprojects.io/ttgo-t-watch-menu-pages-navigation-between-screens-tft_espi/
+ * https://projetsdiy.fr/ttgo-t-watch-menu-pages-navigation-ecrans-tft_espi/
  * Licence : see licence file
  * /
  
@@ -11,7 +12,7 @@
 //#define LILYGO_WATCH_BLOCK
 //#define LILYGO_WATCH_2020_V1
 #include <LilyGoWatch.h>
-#include "icones.h"             // Sketch tab header for xbm images
+#include "icones.h"             
 
 // Pointers | Pointeurs 
 TTGOClass *ttgo;

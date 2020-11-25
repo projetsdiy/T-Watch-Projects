@@ -9,7 +9,7 @@ The T-Watch 2020 is a real connected watch with a design reminiscent of the Appl
 5. [ How to convert in C++ color image with LVGL and display on TTGO T-Watch](https://diyprojects.io/ttgo-t-watch-display-xbm-tft_espi-lvgl-images-esp32-arduino/)
 6. Switch between LVGL and TFT_eSPI screen on a TTGO T-Watch [Landing page is created with LVGL library](https://diyprojects.io/ttgo-t-watch-mix-lvgl-tft_espi-libraries-same-esp32-project/)
 7. Switch between LVGL and TFT_eSPI screen on a TTGO T-Watch [Landing page is created with TFT_eSPI library](https://diyprojects.io/ttgo-t-watch-mix-lvgl-tft_espi-libraries-same-esp32-project/)
-8. writting...
+8. [T-Watch. Menu, pages, navigation between screens with TFT_eSPI](https://diyprojects.io/ttgo-t-watch-menu-pages-navigation-between-screens-tft_espi/)
 9. [Draw Mandelbrot or Julia fractals (LVGL + TFT_eSPI)](https://diyprojects.io/ttgo-t-watch-draw-mandelbrot-julia-fractals-esp32-lvgl-tft_espi/)
 
 ## Get started with T-Watch
@@ -64,7 +64,7 @@ La T-Watch 2020 est une véritable montre connectée au design rappelant l'Apple
 5. [Comment convertir une image couleur C ++ avec LVGL et afficher sur TTGO T-Watch](https://projetsdiy.fr/ttgo-t-watch-afficher-images-xbm-tft_espi-lvgl-esp32-arduino/)
 6. Naviguer entre un écran LVGL et TFT_eSPI sur un TTGO T-Watch [La page principale est créée avec la bibliothèque LVGL](https://projetsdiy.fr/ttgo-t-watch-mixer-librairies-lvgl-tft_espi-projet-esp32/)
 7. Naviguer entre l'écran LVGL et TFT_eSPI sur un TTGO T-Watch [La page principale est créée avec la bibliothèque TFT_eSPI](https://projetsdiy.fr/ttgo-t-watch-mixer-librairies-lvgl-tft_espi-projet-esp32/)
-8. En cours de rédaction
+8. [T-Watch. Menu, pages, navigation entre écrans avec TFT_eSPI](https://projetsdiy.fr/ttgo-t-watch-menu-pages-navigation-ecrans-tft_espi/)
 9. [Dessiner des fractales de Mandelbrot ou Julia](https://projetsdiy.fr/ttgo-t-watch-projet-fractales-mandelbrot-julia-esp32/)
 
 ## Débuter avec la T-Watch 
