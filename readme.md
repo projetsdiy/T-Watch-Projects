@@ -2,16 +2,16 @@
 The T-Watch series concentrates in a mini 20mm thick case an ESP32 development board powered by LiPo battery and a color touch screen (or not). The box accommodates a specialized expansion card (Lora, GPS, GPRS, etc.).
 The T-Watch 2020 is a real connected watch with a design reminiscent of the Apple Watch. As this is primarily an ESP32 development board, it can be fully programmed with Arduino code!
 
-1. T-Watch Hello World, [create first ESP32 project with the LilyGoWatch library (Arduino IDE or PlatformIO)](https://diyprojects.io/lilygowatch-esp32-ttgo-t-watch-get-started-ide-arduino-platformio)
-2. T-Watch Get Started TFT display [Getting started with the ESP32 TFT_eSPI library for TTGO T-Watch units](https://projetsdiy.fr/ttgo-t-watch-debuter-librairie-esp32-tft_espi)
-3. T-Watch screen orientation reference [Change screen orientation with reference](https://projetsdiy.fr/ttgo-t-watch-debuter-librairie-esp32-tft_espi/#changeorientation)
+1. [T-Watch Hello World. Create your first ESP32 project with the LilyGoWatch library with the Arduino IDE or PlatformIO)](https://diyprojects.io/lilygowatch-esp32-ttgo-t-watch-get-started-ide-arduino-platformio)
+2. [Getting started with the TFT_eSPI library for TTGO T-Watch ESP32 portable development board](https://projetsdiy.fr/ttgo-t-watch-debuter-librairie-esp32-tft_espi)
+3. [Change screen orientation with reference](https://projetsdiy.fr/ttgo-t-watch-debuter-librairie-esp32-tft_espi/#changeorientation)
 4. [How to convert bitmap to XBM format and display image on TTGO T-Watch ith TFT_eSPI library](https://diyprojects.io/ttgo-t-watch-display-xbm-tft_espi-lvgl-images-esp32-arduino/)
 5. [ How to convert in C++ color image with LVGL and display on TTGO T-Watch](https://diyprojects.io/ttgo-t-watch-display-xbm-tft_espi-lvgl-images-esp32-arduino/)
-6. Switch between LVGL and TFT_eSPI screen on a TTGO T-Watch [Landing page is created with LVGL library](https://diyprojects.io/ttgo-t-watch-mix-lvgl-tft_espi-libraries-same-esp32-project/)
-7. Switch between LVGL and TFT_eSPI screen on a TTGO T-Watch [Landing page is created with TFT_eSPI library](https://diyprojects.io/ttgo-t-watch-mix-lvgl-tft_espi-libraries-same-esp32-project/)
-8. [T-Watch. Menu, pages, navigation between screens with TFT_eSPI](https://diyprojects.io/ttgo-t-watch-menu-pages-navigation-between-screens-tft_espi/)
+6. [Switch between LVGL and TFT_eSPI screen on a TTGO T-Watch. Landing page is created with LVGL library](https://diyprojects.io/ttgo-t-watch-mix-lvgl-tft_espi-libraries-same-esp32-project/)
+7. [Switch between LVGL and TFT_eSPI screen on a TTGO T-Watch. Landing page is created with TFT_eSPI library](https://diyprojects.io/ttgo-t-watch-mix-lvgl-tft_espi-libraries-same-esp32-project/)
+8. [Menu, pages, navigation between screens with TFT_eSPI](https://diyprojects.io/ttgo-t-watch-menu-pages-navigation-between-screens-tft_espi/)
 9. [Draw Mandelbrot or Julia fractals (LVGL + TFT_eSPI)](https://diyprojects.io/ttgo-t-watch-draw-mandelbrot-julia-fractals-esp32-lvgl-tft_espi/)
-10. [T-Watch. Sleep and wake-up ESP32 with BMA423 accelerometer or AXP202 button](https://diyprojects.io/t-watch-sleep-and-wake-up-with-bma423-accelerometer-or-esp32-button/)
+10. [Sleep and wake-up ESP32 with BMA423 accelerometer or AXP202 button](https://diyprojects.io/t-watch-sleep-and-wake-up-with-bma423-accelerometer-or-esp32-button/)
 
 ## Get started with T-Watch
 * [Which T-Watch to choose?](https://diyprojects.io/ttgo-t-watch-esp32-which-model-choose-available-expansion-boards/)
@@ -22,7 +22,7 @@ The T-Watch 2020 is a real connected watch with a design reminiscent of the Appl
 * [Expansion boards and peripheral constants]("https://diyprojects.io/lilygowatch-esp32-ttgo-t-watch-get-started-ide-arduino-platformio/#constantesaccessoirescartesextension)
 * [Platformio.ini example](https://diyprojects.io/lilygowatch-esp32-ttgo-t-watch-get-started-ide-arduino-platformio/#platformioinitwach)
 * [Buy a T-Watch](https://diyprojects.io/esp32-lilygo-ttgo-t-watch-connected-watches-to-program-yourself/)
-* [Buy T-Watch expansion board](https://diyprojects.io/esp32-lilygo-ttgo-t-watch-connected-watches-to-program-yourself/#carteextensiontwatch) for T-Watch Touch, T-Watch-N or T-Block
+* [Buy T-Watch expansion board for T-Watch Touch, T-Watch-N or T-Block](https://diyprojects.io/esp32-lilygo-ttgo-t-watch-connected-watches-to-program-yourself/#carteextensiontwatch) 
 
 ## Develop a graphical interface with TFT_eSPI or LVGL
 * [TFT_eSPI. Getting started with the library. Display text, shapes, touch detection](https://diyprojects.io/ttgo-t-watch-get-started-esp32-tft_espi-library/)
@@ -40,7 +40,7 @@ The T-Watch 2020 is a real connected watch with a design reminiscent of the Appl
 * [AXP202, power controller datasheet](http://dl.linux-sunxi.org/AXP/AXP202%20Datasheet_v1.0_en.pdf)
 * [NXP PCF8563 RTC clock](https://www.nxp.com/docs/en/data-sheet/PCF8563.pdf)
 * [Bosch Sensortec BMA423, 3-axis accelerometer](https://www.bosch-sensortec.com/products/motion-sensors/accelerometers/bma423.html)
-* [BMA423 library developed by Bosch](https://github.com/BoschSensortec/BMA423-Sensor-API). [Adaptation for T-Watch](https://github.com/lewisxhe/BMA423_Library)
+* [BMA423 library developed by Bosch](https://github.com/BoschSensortec/BMA423-Sensor-API). [Adaptation for T-Watch](https://github.com/lewisxhe/BMA423_Library) Step counter, orientation, movements
 * [Seeed Studio Air 530 GPS](https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/109020022_Web.pdf) 
 * [SIM800L, GRPS modem](https://simcom.ee/documents/SIM800/SIM800_Hardware%20Design_V1.09.pdf) 
 * [SIM868, GPRS modem](https://simcom.ee/modules/gsm-gprs-gnss/sim868/) 
@@ -59,16 +59,16 @@ _____
 La série T-Watch concentre dans un mini boîtier de 20 mm d'épaisseur une carte de développement ESP32 alimentée par batterie LiPo et un écran couleur tactile (ou non). Le boitier accueille une carte d'extension spécialisée (Lora, GPS, GPRS…). 
 La T-Watch 2020 est une véritable montre connectée au design rappelant l'Apple Watch. Comme il s'agit avant tout d'une carte de développement ESP32, elle peut être entièrement programmée avec du code Arduino!
 
-1. T-Watch Hello World, [créer votre 1er projet ESP32 avec la librairie LilyGoWatch sur l'IDE Arduino ou PlatformIO](https://projetsdiy.fr/lilygowatch-ttgo-t-watch-projet-esp32-ide-arduino-platformio/)
-2. T-Watch Get Started TFT display [Débuter avec la librairie ESP32 TFT_eSPI pour les boitier TTGO T-Watch](https://projetsdiy.fr/ttgo-t-watch-debuter-librairie-esp32-tft_espi)
-3. T-Watch screen orientation reference [Orientation de l'écran](https://projetsdiy.fr/ttgo-t-watch-debuter-librairie-esp32-tft_espi/#changeorientation)
+1. [Créer votre 1er projet ESP32 avec la librairie LilyGoWatch sur l'IDE Arduino ou PlatformIO](https://projetsdiy.fr/lilygowatch-ttgo-t-watch-projet-esp32-ide-arduino-platformio/)
+2. [Débuter avec la librairie ESP32 TFT_eSPI pour les boitiers TTGO T-Watch](https://projetsdiy.fr/ttgo-t-watch-debuter-librairie-esp32-tft_espi)
+3. [Changer l'Orientation de l'écran de la T-Watch](https://projetsdiy.fr/ttgo-t-watch-debuter-librairie-esp32-tft_espi/#changeorientation)
 4. [Comment convertir un bitmap au format XBM et afficher l'image sur TTGO T-Watch avec la bibliothèque TFT_eSPI](https://projetsdiy.fr/ttgo-t-watch-afficher-images-xbm-tft_espi-lvgl-esp32-arduino/)
 5. [Comment convertir une image couleur C ++ avec LVGL et afficher sur TTGO T-Watch](https://projetsdiy.fr/ttgo-t-watch-afficher-images-xbm-tft_espi-lvgl-esp32-arduino/)
-6. Naviguer entre un écran LVGL et TFT_eSPI sur un TTGO T-Watch [La page principale est créée avec la bibliothèque LVGL](https://projetsdiy.fr/ttgo-t-watch-mixer-librairies-lvgl-tft_espi-projet-esp32/)
-7. Naviguer entre l'écran LVGL et TFT_eSPI sur un TTGO T-Watch [La page principale est créée avec la bibliothèque TFT_eSPI](https://projetsdiy.fr/ttgo-t-watch-mixer-librairies-lvgl-tft_espi-projet-esp32/)
-8. [T-Watch. Menu, pages, navigation entre écrans avec TFT_eSPI](https://projetsdiy.fr/ttgo-t-watch-menu-pages-navigation-ecrans-tft_espi/)
+6. [Naviguer entre un écran LVGL et TFT_eSPI sur un TTGO T-Watch. La page principale est créée avec la bibliothèque LVGL](https://projetsdiy.fr/ttgo-t-watch-mixer-librairies-lvgl-tft_espi-projet-esp32/)
+7. [Naviguer entre l'écran LVGL et TFT_eSPI sur un TTGO T-Watch. La page principale est créée avec la bibliothèque TFT_eSPI](https://projetsdiy.fr/ttgo-t-watch-mixer-librairies-lvgl-tft_espi-projet-esp32/)
+8. [Menu, pages ett navigation entre écrans avec la librairie TFT_eSPI](https://projetsdiy.fr/ttgo-t-watch-menu-pages-navigation-ecrans-tft_espi/)
 9. [Dessiner des fractales de Mandelbrot ou Julia](https://projetsdiy.fr/ttgo-t-watch-projet-fractales-mandelbrot-julia-esp32/)
-10. [Mise en veille et réveil de l'ESP32 avec accéléromètre BMA423 ou AXP202](https://projetsdiy.fr/ttgo-t-watch-veille-deep-sleep-reveil-accelerometre-bma423-axp202-esp32/)
+10. [Mise en veille et réveil de l'ESP32 avec accéléromètre BMA423 ou le bouton principal connecté à l'AXP202](https://projetsdiy.fr/ttgo-t-watch-veille-deep-sleep-reveil-accelerometre-bma423-axp202-esp32/)
 11. []()
 
 ## Débuter avec la T-Watch 
@@ -80,7 +80,7 @@ La T-Watch 2020 est une véritable montre connectée au design rappelant l'Apple
 * [Constantes pour les périphériques et cartes d'extension](https://projetsdiy.fr/lilygowatch-ttgo-t-watch-projet-esp32-ide-arduino-platformio/#constantesaccessoirescartesextension)
 * [Exemple de fichier platformio.ini](https://projetsdiy.fr/lilygowatch-ttgo-t-watch-projet-esp32-ide-arduino-platformio/#platformioinitwatch)
 * [Acheter une T-Watch](https://projetsdiy.fr/boitier-montre-connectee-esp32-lilygo-ttgo-t-watch/)
-* [Acheter une carte d'extension](https://projetsdiy.fr/boitier-montre-connectee-esp32-lilygo-ttgo-t-watch/#carteextensiontwatch) pour T-Watch, T-Watch-N, T-Block
+* [Acheter une carte d'extension pour T-Watch, T-Watch-N, T-Block](https://projetsdiy.fr/boitier-montre-connectee-esp32-lilygo-ttgo-t-watch/#carteextensiontwatch) 
 
 ## Développer une interface graphique avec TFT_eSPI ou LVGL
 * [TFT_eSPI. Débuter avec la librairie. Afficher texte, formes, détection tactile](https://projetsdiy.fr/ttgo-t-watch-debuter-librairie-esp32-tft_espi/)
@@ -97,7 +97,7 @@ La T-Watch 2020 est une véritable montre connectée au design rappelant l'Apple
 * [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI)
 * [Documentation technique de l'AXP202, contrôleur d'alimentation](http://dl.linux-sunxi.org/AXP/AXP202%20Datasheet_v1.0_en.pdf)
 * [Documentation technique du NXP PCF8563, horloge RTC](https://www.nxp.com/docs/en/data-sheet/PCF8563.pdf)
-* [Bosch Sensortec BMA423, accélèromètre 3 axes](https://www.bosch-sensortec.com/products/motion-sensors/accelerometers/bma423.html)
+* [Bosch Sensortec BMA423, accélèromètre 3 axes](https://www.bosch-sensortec.com/products/motion-sensors/accelerometers/bma423.html). Compteur de pas, orientation, mouvement...
 * [Librairie BMA423 développée par Bosch](https://github.com/BoschSensortec/BMA423-Sensor-API). [Adapation pour les T-Watch](https://github.com/lewisxhe/BMA423_Library)
 * [GPS Seeed Studio Air 530](https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/109020022_Web.pdf) 
 * [SIM800L, modem GPRS](https://simcom.ee/documents/SIM800/SIM800_Hardware%20Design_V1.09.pdf) 

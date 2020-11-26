@@ -368,7 +368,7 @@ void loop()
             watch->power->readIRQ();
             if (watch->power->isPEKShortPressIRQ()) {
                 // Switch to low consumption mode when the main button is pressed
-                // Bascule en mode basse consommation lorsqu'on appuie sur le bouton principal
+                // Bascule en mode basse consommation lorsqu'on appuie sur le bouton principal ou 
                 watch->power->clearIRQ();
                 low_energy();
                 return;
