@@ -11,6 +11,7 @@ The T-Watch 2020 is a real connected watch with a design reminiscent of the Appl
 7. Switch between LVGL and TFT_eSPI screen on a TTGO T-Watch [Landing page is created with TFT_eSPI library](https://diyprojects.io/ttgo-t-watch-mix-lvgl-tft_espi-libraries-same-esp32-project/)
 8. [T-Watch. Menu, pages, navigation between screens with TFT_eSPI](https://diyprojects.io/ttgo-t-watch-menu-pages-navigation-between-screens-tft_espi/)
 9. [Draw Mandelbrot or Julia fractals (LVGL + TFT_eSPI)](https://diyprojects.io/ttgo-t-watch-draw-mandelbrot-julia-fractals-esp32-lvgl-tft_espi/)
+10. [T-Watch. Sleep and wake-up ESP32 with BMA423 accelerometer or AXP202 button](https://diyprojects.io/t-watch-sleep-and-wake-up-with-bma423-accelerometer-or-esp32-button/)
 
 ## Get started with T-Watch
 * [Which T-Watch to choose?](https://diyprojects.io/ttgo-t-watch-esp32-which-model-choose-available-expansion-boards/)
@@ -67,6 +68,8 @@ La T-Watch 2020 est une véritable montre connectée au design rappelant l'Apple
 7. Naviguer entre l'écran LVGL et TFT_eSPI sur un TTGO T-Watch [La page principale est créée avec la bibliothèque TFT_eSPI](https://projetsdiy.fr/ttgo-t-watch-mixer-librairies-lvgl-tft_espi-projet-esp32/)
 8. [T-Watch. Menu, pages, navigation entre écrans avec TFT_eSPI](https://projetsdiy.fr/ttgo-t-watch-menu-pages-navigation-ecrans-tft_espi/)
 9. [Dessiner des fractales de Mandelbrot ou Julia](https://projetsdiy.fr/ttgo-t-watch-projet-fractales-mandelbrot-julia-esp32/)
+10. [Mise en veille et réveil de l'ESP32 avec accéléromètre BMA423 ou AXP202](https://projetsdiy.fr/ttgo-t-watch-veille-deep-sleep-reveil-accelerometre-bma423-axp202-esp32/)
+11. []()
 
 ## Débuter avec la T-Watch 
 * [Quelle T-Watch choisir ?](https://projetsdiy.fr/ttgo-t-watch-esp32-quel-modele-choisir-cartes-dextension-disponibles/)

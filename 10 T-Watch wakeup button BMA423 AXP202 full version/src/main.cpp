@@ -7,6 +7,8 @@
     accelerometer
     
     Step by step tutorials
+    https://diyprojects.io/t-watch-sleep-and-wake-up-with-bma423-accelerometer-or-esp32-button/
+    https://projetsdiy.fr/ttgo-t-watch-veille-deep-sleep-reveil-accelerometre-bma423-axp202-esp32/
 
     Licence : see licence file
     Original source code from lewis he

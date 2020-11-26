@@ -46,8 +46,9 @@ void userButtonClicked();
 /**************************/
 void low_energy()
 {
-    // Le rétro-éclairage est actif
     if ( watch->bl->isOn()) {
+      // Si le rétro-éclairage est actif >> passe en mode light sleep. Le Core de l'ESP32 reste actif
+      // Si le rétro-éclairage est actif >> passe en mode light sleep. Le Core de l'ESP32 reste actif
       Serial.println("BL is OFF >> activate light sleep");
         watch->closeBL();
         watch->bma->enableStepCountInterrupt(false);
@@ -139,41 +140,50 @@ void setup() {
   // Build landing page 
   //créé la page principale
   buildTFTPage();
+
+  // Démarre le chronomètre pour la mise en veille automatique
   duration = millis();
 }
 
 void loop() {
   int16_t x, y;
   bool rlst;
- 
+  
+  if ( watch->getTouch(x,y) ) {
+    while (watch->getTouch(x, y) ) {}
+    // Relance le chrono lorsque l'utilisateur touche l'écran
+    duration = millis();
+  }
+  // Lorsqu'on dépasse le temps d'inactivité >> met en veille l'écran et les périphériques de la montre
   if ( millis() - duration > DEFAULT_SCREEN_TIMEOUT) {
     if ( !lenergy) {
       duration = millis();
       low_energy();
     }  
   }
+  // L'utilisateur vient d'appuyer sur le bouton principal
   if (irq) {
     Serial.println("irq detected");
     irq = false;
     watch->power->readIRQ();
     if ( watch->power->isPEKShortPressIRQ() ) {
-      Serial.println("Power button pressed -> wakeup / switch on light sleep");
+      Serial.println("Power button pressed >> wakeup / switch on light sleep");
       low_energy();
     }  
     watch->power->clearIRQ();
   }  
+  // L'utilisateur vient de tapoter l'écran
   if ( bmairq ) {
     Serial.println("bmairq detectee");
-      bmairq = false;
-      
-        Serial.println("Power button pressed -> light sleep");
-        //if ( !lenergy) 
-        do {
-          rlst = watch->bma->readInterrupt();
-        } while (!rlst);
-
-        low_energy();
+      bmairq = false;      
+      Serial.println("Power button pressed >> wakeup / switch on light sleep");
+      do {
+        rlst = watch->bma->readInterrupt();
+      } while (!rlst);
+      low_energy();
   }  
+  // On vérifie à chaque passage dans la bouche l'état du bouton utilisateur
+  // On vérifie à chaque passage dans la bouche l'état du bouton utilisateur
   watch->button->loop();  
 }
 
