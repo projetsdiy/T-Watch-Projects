@@ -16,7 +16,7 @@ int toolPageMenu(){
   
   while (!exitMenu) {
     // Wait for the user to touch the screen
-    // Attend que l'utilisateur touche l'écan
+    // Attend que l'utilisateur touche l'écran
     if (ttgo->getTouch(x, y)) { 
       while (ttgo->getTouch(tx, ty)) {} 
       Serial.printf("toolPageMenu clicked %u %u\n", x, y);
